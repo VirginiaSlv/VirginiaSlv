@@ -1,2 +1,2 @@
-## - 👋 Hi, I’m Virginia
+## - 👋 Hi, Eu sou a Virginia
 
