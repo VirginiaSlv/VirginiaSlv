@@ -2,6 +2,12 @@
 
 -  💻 Estudante de Informática
 
+Sou uma desenvolvedora apaixonada por tecnologia e focado em transformar ideias complexas em soluções elegantes e funcionais. Neste espaço, você encontrará projetos que refletem minha jornada de aprendizado contínuo.
+
+Acredito no poder que a tecnologia tem em ajudar pessoas. Sinta-se à vontade para explorar meus repositórios e se conectar comigo. Vamos construir o futuro, uma linha de código por vez!
+
+
+
 ![Virgínia GitHub stats](https://github-readme-stats.vercel.app/api?username=VirginiaSlv&show_icons=true&theme=radical)
 
 <div style="display:inline_block"><br>
