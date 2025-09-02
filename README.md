@@ -1,7 +1,6 @@
 ### 👋 Olá! Eu sou a Virgínia, uma estudante de Informática 💻
 
-Sou uma desenvolvedora com grande admiração por tecnologia e focada em criar aplicações funcionais. Neste espaço, você encontrará projetos que mostram um pouco da minha jornada de aprendizado contínuo.
-
+Sou uma desenvolvedora com grande admiração por tecnologia e focada em criar aplicações funcionais. Como aluna do **Colégio Técnico de Campinas (Cotuca)**, adquiri uma sólida base em lógica de programação e em linguagens como C# e Flutter, além de noções de banco de dados e IA.
 Acredito no poder que a tecnologia tem em ajudar pessoas e sinto um grande prazer em criar ferramentas que fazem a diferença. Sinta-se à vontade para explorar meus repositórios e se conectar comigo.
 
 ---
@@ -13,6 +12,7 @@ Acredito no poder que a tecnologia tem em ajudar pessoas e sinto um grande praze
    <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img align="center" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
   <img align="center" alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img align="center" alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
   <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 </div>
