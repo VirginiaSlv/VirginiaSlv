@@ -1,7 +1,8 @@
 ### 👋 Olá! Eu sou a Virgínia, uma estudante de Informática 💻
 
 Sou uma desenvolvedora com grande admiração por tecnologia e focada em criar aplicações funcionais. Como aluna do **Colégio Técnico de Campinas (Cotuca)**, adquiri uma sólida base em lógica de programação e em linguagens como C# e Flutter, além de noções de banco de dados e IA.
-Acredito no poder que a tecnologia tem em ajudar pessoas e sinto um grande prazer em criar ferramentas que fazem a diferença. Sinta-se à vontade para explorar meus repositórios e se conectar comigo.
+
+Neste espaço, você encontrará projetos que mostram um pouco da minha jornada de aprendizado contínuo.Acredito no poder que a tecnologia tem em ajudar pessoas e sinto um grande prazer em criar ferramentas que fazem a diferença. Sinta-se à vontade para explorar meus repositórios e se conectar comigo.
 
 ---
 
