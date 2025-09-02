@@ -1,6 +1,6 @@
 ### 👋 Olá! Eu sou a Virgínia, uma estudante de Informática 💻
 
-Sou uma desenvolvedora apaixonada por tecnologia e focada em transformar ideias complexas em soluções elegantes e funcionais. Neste espaço, você encontrará projetos que refletem minha jornada de aprendizado contínuo, com foco especial em **desenvolvimento web** e **front-end**.
+Sou uma desenvolvedora com grande admiração por tecnologia e focada em criar aplicações funcionais. Neste espaço, você encontrará projetos que mostram um pouco da minha jornada de aprendizado contínuo.
 
 Acredito no poder que a tecnologia tem em ajudar pessoas e sinto um grande prazer em criar ferramentas que fazem a diferença. Sinta-se à vontade para explorar meus repositórios e se conectar comigo.
 
