@@ -23,7 +23,7 @@ Neste espaço, você encontrará projetos que mostram um pouco da minha jornada 
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=VirginiaSlv&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VirginiaSlv&layout=compact&langs_count=7&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VirginiaSlv&layout=compact&langs_count=7&theme=radical&count_private=true"/>
 </div>
 
 ---
