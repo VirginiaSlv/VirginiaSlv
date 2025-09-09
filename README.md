@@ -27,6 +27,3 @@ Neste espaço, você encontrará projetos que mostram um pouco da minha jornada 
 
 ---
 
-### 🤝 Conecte-se comigo
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/virginia-da-silva-leite-761376248/)
